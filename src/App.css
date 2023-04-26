@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    font-size: 62.5%;
+}
+
+html,
+body,
+input {
+    font-size: 1.6rem;
+    font-family: sans-serif;
+}
+
+body {
+    width: 100%;
+    height: 100dvh;
+    font-size: 1.6rem;
+}
+
+.container {
+    height: 100dvh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.input {
+    max-width: 30rem;
+    width: 100%;
+    height: 3.8rem;
+    margin: 2.4rem 0;
+    padding: 2.4rem 1.4rem;
+    outline: none;
+    border-radius: 0.8rem;
+    border: 1px solid #b6b6b6;
+    text-align: center;
+}
+
+.link {
+    color: rgb(72, 72, 72);
+    text-decoration: none;
+}
+
+.link:hover {
+    filter: brightness(1.5);
+}
