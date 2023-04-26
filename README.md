@@ -25,8 +25,6 @@ Aplicação desenvolvida usando React para gerar QRCode em tempo real de links d
 
 [Clique aqui para acessar o projeto hospedado na Netlify.](https://criarqrcode.netlify.app)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/e419d08a-20b2-4515-b069-3ec79e217944/deploy-status)](https://app.netlify.com/sites/criarqrcode/deploys)
-
 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devcarlosalberto)
